@@ -1,4 +1,4 @@
-
+#Here we create an example 2x2 matrix
 ex <- matrix(c(1,2,3,4), 2, 2)
 ex
 solve(ex)
